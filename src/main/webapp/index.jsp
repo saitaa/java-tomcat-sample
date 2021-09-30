@@ -4,6 +4,6 @@
   <h3> Stage Deployment Again </h3>
   <h3> Good luck to everbody.... </h3>
   <h3> You are doing good work .... </h3>
-  <h4> thanks .... </h4>
+  <h4> thanks folks.... </h4>
 </body>
 </html>
